@@ -1,0 +1,156 @@
+element-styles {
+	display: inline-block;
+	width: 1920px;
+	background: white;
+}
+
+.wide-property-base-container {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	justify-content: flex-start;
+	min-width: 1920px;
+	padding-bottom: 5px;
+	border-bottom: 5px solid #c1cfea;
+}
+
+.wide-property-base {
+	box-sizing: border-box;
+	display: flex;
+	flex: 0 0 auto;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	padding-right: 236px;
+}
+
+.wide-content-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding-top: 48px;
+	padding-bottom: 48px;
+}
+
+.heading-large-bold {
+	box-sizing: border-box;
+	flex: 0 0 auto;
+	width: 213px;
+	padding: 0;
+	padding-top: 102px;
+	padding-bottom: 102px;
+	margin: 0;
+	font: 600 48px "EB Garamond", serif;
+	color: black;
+	text-transform: uppercase;
+}
+
+.wide-property-base1 {
+	box-sizing: border-box;
+	display: flex;
+	flex: 0 0 auto;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	width: 767px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.wide-base-real-estate-properties {
+	flex: 0 0 auto;
+	padding: 0;
+	margin: 0;
+	font: 600 24px "EB Garamond", serif;
+	color: black;
+	text-transform: uppercase;
+}
+
+.wide-property-description {
+	flex: 0 0 auto;
+	align-self: stretch;
+	padding: 0;
+	margin: 0;
+	margin-top: 20px;
+	font: 300 20px Manrope, sans-serif;
+	color: #292929;
+	text-align: justify;
+}
+
+.wide-property-base-container {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	justify-content: flex-start;
+	min-width: 1920px;
+	padding-bottom: 5px;
+	border-bottom: 5px solid #c1cfea;
+}
+
+.wide-property-base {
+	box-sizing: border-box;
+	display: flex;
+	flex: 0 0 auto;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	padding-right: 236px;
+}
+
+.wide-content-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding-top: 48px;
+	padding-bottom: 48px;
+}
+
+.heading-large-bold {
+	box-sizing: border-box;
+	flex: 0 0 auto;
+	width: 213px;
+	padding: 0;
+	padding-top: 102px;
+	padding-bottom: 102px;
+	margin: 0;
+	font: 600 48px "EB Garamond", serif;
+	color: black;
+	text-transform: uppercase;
+}
+
+.wide-property-base1 {
+	box-sizing: border-box;
+	display: flex;
+	flex: 0 0 auto;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	width: 767px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.wide-base-real-estate-properties {
+	flex: 0 0 auto;
+	padding: 0;
+	margin: 0;
+	font: 600 24px "EB Garamond", serif;
+	color: black;
+	text-transform: uppercase;
+}
+
+.wide-property-description {
+	flex: 0 0 auto;
+	align-self: stretch;
+	padding: 0;
+	margin: 0;
+	margin-top: 20px;
+	font: 300 20px Manrope, sans-serif;
+	color: #292929;
+	text-align: justify;
+}
+
