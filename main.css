@@ -97,7 +97,7 @@ a:active {
 	width: 100%;
 	height: 1010px;
 	max-height: 1010px;
-	background: url("/figure.svg");
+	background: url("figure.svg");
 	background-repeat: no-repeat;
 }
 
