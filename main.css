@@ -615,7 +615,7 @@ a:active {
 
 /* Подписка */
 .sub {
-	background-image: url(/form.png);
+	background-image: url(form.png);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
