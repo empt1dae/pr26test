@@ -701,7 +701,7 @@ button:hover {
 	width: 50px;
 	height: 50px;
 	display: inline-block;
-	background-color: #000000;
+	background-color: #ffffff;
 	border-radius: 50%;
 	background-size: cover;
 	transition: box-shadow 200ms linear;
@@ -713,15 +713,15 @@ button:hover {
 }
 
 .telegram-icon {
-	background-image: url('footer/tg.svg');
+	background-image: url('./footer/tg.svg');
 }
 
 .vk-icon {
-	background-image: url('footer/vk.svg');
+	background-image: url('./footer/vk.svg');
 }
 
 .another-icon {
-	background-image: url('footer/dzen.svg');
+	background-image: url('./footer/dzen.svg');
 }
 
 .footer-links ul {
