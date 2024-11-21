@@ -345,15 +345,15 @@ p {
 }
 
 .telegram-icon {
-	background-image: url('/footer/tg.svg');
+	background-image: url('../footer/tg.svg');
 }
 
 .vk-icon {
-	background-image: url('/footer/vk.svg');
+	background-image: url('../footer/vk.svg');
 }
 
 .another-icon {
-	background-image: url('/footer/dzen.svg');
+	background-image: url('../footer/dzen.svg');
 }
 
 
